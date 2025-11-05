@@ -170,7 +170,7 @@ This project is proprietary software for Konvo AI.
 
 ## 📞 Support
 
-For support, email your-email@company.com or contact the development team.
+For support, email suneel@codeology.solutions or contact the development team.
 
 ---
 
